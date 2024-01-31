@@ -1,0 +1,4 @@
+repository "PlantsVsCorgis@BradyF@cloud"
+  path "/"
+    br "/main"
+    co "/main"
